@@ -1,5 +1,5 @@
 /// <reference types="Cypress" />
-//contains used mostly for text search (buttons, links and etc)
+//contains is used mostly for text search (buttons, links and etc)
 
 it('look for sigh-in btn', () => {
     cy.visit("https://next.privat24.ua/mobile?lang=en");
